@@ -1,0 +1,13 @@
+{
+    "Name": "", 
+    "Description": "",
+    "BIDSVersion": "1.0", 
+    "DatasetType": "study", 
+    "License": "CC-BY-4.0",
+    "Authors": ["BICAN UM1"],
+    "HowToAcknowledge": "",
+    "Acknowledgements":  "",
+    "Funding": ["NIH 1 UM1 MH134812"],
+    "ReferencesAndLinks": [""],
+    "DatasetDOI": "https://dandiarchive.org/dandiset/001707/draft"    
+}

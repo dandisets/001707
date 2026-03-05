@@ -9,9 +9,17 @@ access:
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 356
+  numberOfFiles: 1
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Gunalan, Kabilar (2026) BICAN UM1 Chung (Version draft) [Data set]. DANDI
   Archive. https://dandiarchive.org/dandiset/001707/draft
 contributor:
