@@ -15,12 +15,13 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 356
-  numberOfFiles: 1
+  numberOfBytes: 369
+  numberOfFiles: 2
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: BICAN UM1 Chung (2026). (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001707/draft
+citation: NIH BICAN - Chung UM1 (2026). (Version draft) [Data set]. DANDI Archive.
+  https://dandiarchive.org/dandiset/001707/draft
 contributor:
 - affiliation: []
   email: kabi@mit.edu
@@ -38,7 +39,7 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001707/versions/draft/assets/
-name: BICAN UM1 Chung
+name: NIH BICAN - Chung UM1
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
