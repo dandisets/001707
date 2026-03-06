@@ -20,12 +20,11 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Gunalan, Kabilar (2026) BICAN UM1 Chung (Version draft) [Data set]. DANDI
-  Archive. https://dandiarchive.org/dandiset/001707/draft
+citation: BICAN UM1 Chung (2026). (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001707/draft
 contributor:
 - affiliation: []
-  email: kabilar@datajoint.com
-  includeInCitation: true
+  email: kabi@mit.edu
+  includeInCitation: false
   name: Gunalan, Kabilar
   roleName:
   - dcite:ContactPerson
